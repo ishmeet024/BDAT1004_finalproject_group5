@@ -1,0 +1,2 @@
+api_key = 'bayisvyp'
+    api_secret = '68bb6e5f-0148-4dae-858b-800962ca5200'
